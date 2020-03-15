@@ -1,3 +1,6 @@
+03/27/2020
+- added optional support for RFC 7636 "Proof Key for Code Exchange"
+
 02/06/2020
 - ability to disable keepalive from lua-resty-http
   By disabling keepalive we disable the native connection pool,
