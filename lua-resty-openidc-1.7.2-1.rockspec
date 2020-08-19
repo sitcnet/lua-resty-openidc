@@ -22,7 +22,7 @@ description = {
     license = "Apache 2.0"
 }
 dependencies = {
-    "lua >= 5.1",
+    "lua == 5.1",
     "lua-resty-http >= 0.08",
     "lua-resty-session == 2.8",
     "lua-resty-jwt == 0.2.0"
